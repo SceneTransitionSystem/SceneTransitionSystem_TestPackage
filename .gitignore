@@ -2,6 +2,15 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+
+.DS_Store
+*/.DS_Store
+
+/.vs/*
+.vs/*
+/.vs
+
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
